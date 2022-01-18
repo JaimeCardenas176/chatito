@@ -1,0 +1,25 @@
+{
+  "name": "chatito",
+  "version": "1.0.0",
+  "description": "tiny chat approach using node, mongoDB and websockets",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "watch": "nodemon --ext js"
+  },
+  "keywords": [
+    "chat",
+    "websockets",
+    "sockets",
+    "node",
+    "nodeJS",
+    "mongo",
+    "mongoDB"
+  ],
+  "author": "Jaime Cárdenas Mesa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
